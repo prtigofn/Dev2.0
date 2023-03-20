@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T22:50:09.490Z" agent="5.0 (Linux; Android 13; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1yqFCWyAHdAWuk3jwz_U" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T22:56:45.380Z" agent="5.0 (Linux; Android 13; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6xkeOvQdLOq_eYmGtA4i" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,12 @@
         <mxCell id="XBX4nZGUdL0fPtYbBpFq-34" value="Con Ficha" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="930" y="390" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-10" value="Confirmar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBX4nZGUdL0fPtYbBpFq-36" target="PiGamc_0uS7PZ8Xs801l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-12" value="Rechazar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBX4nZGUdL0fPtYbBpFq-36" target="PiGamc_0uS7PZ8Xs801l-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XBX4nZGUdL0fPtYbBpFq-36" value="Con OT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1128" y="390" width="60" height="60" as="geometry" />
         </mxCell>
@@ -161,26 +167,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBX4nZGUdL0fPtYbBpFq-49" target="PiGamc_0uS7PZ8Xs801l-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XBX4nZGUdL0fPtYbBpFq-49" value="Notificar Rechazo" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1790" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XBX4nZGUdL0fPtYbBpFq-51" value="Replicar Pago AS400" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2123" y="210" width="120" height="40" as="geometry" />
+        <mxCell id="XBX4nZGUdL0fPtYbBpFq-51" value="Replicar Pago AS400&lt;br&gt;88%" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2130" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBX4nZGUdL0fPtYbBpFq-56" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBX4nZGUdL0fPtYbBpFq-54" target="XBX4nZGUdL0fPtYbBpFq-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGamc_0uS7PZ8Xs801l-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBX4nZGUdL0fPtYbBpFq-54" target="PiGamc_0uS7PZ8Xs801l-3">
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBX4nZGUdL0fPtYbBpFq-54" target="PiGamc_0uS7PZ8Xs801l-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XBX4nZGUdL0fPtYbBpFq-54" value="Encontrado?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2003" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="2010" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PiGamc_0uS7PZ8Xs801l-1" target="XBX4nZGUdL0fPtYbBpFq-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-1" value="Confirmar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1790" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PiGamc_0uS7PZ8Xs801l-3" value="Devolver" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2123" y="60" width="120" height="40" as="geometry" />
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-3" value="A Devoluciones&lt;br&gt;12%" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2128" y="132" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrows-set-12/512/history-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2057" y="172" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-9" value="Instalado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1268" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-13" value="Rechazar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PiGamc_0uS7PZ8Xs801l-11" target="XBX4nZGUdL0fPtYbBpFq-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1158" y="620" />
+              <mxPoint x="460" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-11" value="No Instalado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1128" y="500" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
