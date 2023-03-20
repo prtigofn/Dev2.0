@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T23:38:28.548Z" agent="5.0 (Linux; Android 13; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2ax5CxnCNB45T4Uk9LoH" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T23:43:20.029Z" agent="5.0 (Linux; Android 13; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Y8_vx9ul6LxiTi8IRgMd" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XBX4nZGUdL0fPtYbBpFq-36" value="Con OT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1128" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="1310" y="390" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBX4nZGUdL0fPtYbBpFq-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBX4nZGUdL0fPtYbBpFq-41" target="XBX4nZGUdL0fPtYbBpFq-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -200,16 +200,16 @@
         <mxCell id="PiGamc_0uS7PZ8Xs801l-22" value="Replicar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PiGamc_0uS7PZ8Xs801l-9" target="PiGamc_0uS7PZ8Xs801l-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGamc_0uS7PZ8Xs801l-24" value="Pendiente de Replicar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PiGamc_0uS7PZ8Xs801l-9" target="PiGamc_0uS7PZ8Xs801l-23">
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-24" value="Pendiente de Replicar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PiGamc_0uS7PZ8Xs801l-9" target="PiGamc_0uS7PZ8Xs801l-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-9" value="Instalado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1268" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="1770" y="390" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-13" value="Rechazar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PiGamc_0uS7PZ8Xs801l-11" target="XBX4nZGUdL0fPtYbBpFq-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1158" y="620" />
+              <mxPoint x="1340" y="620" />
               <mxPoint x="460" y="620" />
             </Array>
           </mxGeometry>
@@ -218,19 +218,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-11" value="No Instalado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1128" y="500" width="60" height="60" as="geometry" />
+          <mxGeometry x="1310" y="500" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-21" value="Replicado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1408" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="2128" y="390" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-23" value="Devuelto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1268" y="510" width="60" height="60" as="geometry" />
+          <mxGeometry x="2130" y="490" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PiGamc_0uS7PZ8Xs801l-28" value="&lt;h1&gt;Proceso&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Visibilidad relación HV / DD&lt;/li&gt;&lt;li&gt;No hay match entre venta y recibo&lt;/li&gt;&lt;li&gt;La geolocalización no es certera&lt;/li&gt;&lt;li&gt;Reporte de ventas x Canal&lt;/li&gt;&lt;li&gt;OCR de PDF de RC&lt;/li&gt;&lt;li&gt;OCR DPI en venta&lt;/li&gt;&lt;li&gt;Validar crédito desde la venta para rechazar y no crear una devolución&lt;/li&gt;&lt;li&gt;Obtener criterios de rechazo de QA y Activaciones&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-28" value="&lt;h1&gt;Proceso&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Visibilidad relación HV / DD&lt;/li&gt;&lt;li&gt;No hay match entre venta y recibo&lt;/li&gt;&lt;li&gt;La geolocalización no es certera&lt;/li&gt;&lt;li&gt;Reporte de ventas x Canal&lt;/li&gt;&lt;li&gt;OCR de PDF de RC&lt;/li&gt;&lt;li&gt;OCR DPI en venta&lt;/li&gt;&lt;li&gt;Validar crédito desde la venta para rechazar y no crear una devolución&lt;/li&gt;&lt;li&gt;Obtener criterios de rechazo de QA y Activaciones&lt;/li&gt;&lt;li&gt;Tipificación de errores o causas de devoluciones&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="97" y="660" width="313" height="440" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-29" value="* Enviado a sistema de devoluciones" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1330" y="540" width="90" height="45" as="geometry" />
+          <mxGeometry x="2200" y="507.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PiGamc_0uS7PZ8Xs801l-30" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="780" width="30" height="30" as="geometry" />
@@ -238,8 +238,8 @@
         <mxCell id="PiGamc_0uS7PZ8Xs801l-31" value="&lt;h1&gt;Iniciativas&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Agregar punto de control de activaciones para documentar # de OT en PH&lt;/li&gt;&lt;li&gt;Devolver el recibo si existe un rechazo&lt;/li&gt;&lt;li&gt;Sub recibo para reutilización&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="740" width="310" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="PiGamc_0uS7PZ8Xs801l-32" value="&lt;ul&gt;&lt;li&gt;Oct21 - Mar23: Q719K - 4,400 trx&lt;/li&gt;&lt;li&gt;Calle 25% - Agencias 75%&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2230" y="110" width="150" height="130" as="geometry" />
+        <mxCell id="PiGamc_0uS7PZ8Xs801l-32" value="&lt;ul&gt;&lt;li&gt;Oct21 - Mar23: Q719K - 4,400 trx&lt;/li&gt;&lt;li&gt;Calle 25% (1.44% de las ventas)&lt;/li&gt;&lt;li&gt;Agencias 75%&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2260" y="100" width="150" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
