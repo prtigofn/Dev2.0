@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T22:25:44.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4JoCh38IT5CCiCGTk4Yy" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T22:28:48.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zQ5ZetxHCnsfdhgKjNQf" version="24.4.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tY38lUPqZ8C55xfi6Ca6" name="Página-2">
-    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-2" source="NhI2pOyRwKVzvRlpXE7j-23" target="NhI2pOyRwKVzvRlpXE7j-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-23" value="3. Llena formulario" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-2">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-23" value="3. Llenar formulario" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-2">
           <mxGeometry x="15" y="214" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-25" value="4 Entregar formulario para aprobación" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-2">
