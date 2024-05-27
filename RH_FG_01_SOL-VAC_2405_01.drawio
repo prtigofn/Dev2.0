@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T22:39:45.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YqCF4c3Omg4e8HYZaK3X" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T23:36:09.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4F8mH_BRuUjVCDkH6__M" version="24.4.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
         <mxCell id="2iIIKkvK4nBpQ2Dj_4Cv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-4" source="NhI2pOyRwKVzvRlpXE7j-31" target="2iIIKkvK4nBpQ2Dj_4Cv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-31" value="7. Notificar a solicitante" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-4">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-31" value="7. Notificar rechazo al solicitante" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-4">
           <mxGeometry x="27.5" y="514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-40" value="8. Asignar recurso para cubrir vacaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-4">
@@ -201,7 +201,7 @@
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-45" value="10. Enviar formulario para aprobación de recursos humanos" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-4">
           <mxGeometry x="160" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-43" value="9.Notificar a recurso emergente" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-4">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-43" value="9.Notificar al recurso designado" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-4">
           <mxGeometry x="160" y="604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-4" source="NhI2pOyRwKVzvRlpXE7j-40" target="NhI2pOyRwKVzvRlpXE7j-43">
