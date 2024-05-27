@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T22:24:16.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IoBF3Vb8EGCGklNa5mUS" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T22:25:44.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4JoCh38IT5CCiCGTk4Yy" version="24.4.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,16 +141,16 @@
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-3" source="NhI2pOyRwKVzvRlpXE7j-65" target="NhI2pOyRwKVzvRlpXE7j-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-65" value="15. Registrar vacaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-65" value="14. Registrar vacaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
           <mxGeometry x="166" y="1078" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-3" source="NhI2pOyRwKVzvRlpXE7j-67" target="NhI2pOyRwKVzvRlpXE7j-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-67" value="16.Notificar a contabilidad del pago anticipado por vacaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-67" value="15.Notificar a contabilidad del pago anticipado por vacaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
           <mxGeometry x="166" y="1178" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-69" value="17. Notificar a solicitante" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-69" value="16. Notificar a solicitante" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
           <mxGeometry x="166" y="1276" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2iIIKkvK4nBpQ2Dj_4Cv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-3" source="NhI2pOyRwKVzvRlpXE7j-69" target="2iIIKkvK4nBpQ2Dj_4Cv-1">
