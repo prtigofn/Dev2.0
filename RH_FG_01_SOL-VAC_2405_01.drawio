@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T23:36:09.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4F8mH_BRuUjVCDkH6__M" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T23:39:27.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lRgXzjH2rcMUN2NmNrKN" version="24.4.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
             <mxPoint x="165.5" y="882" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-47" value="11. Validar disponibilidad de días del requiriente" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-47" value="11. Validar disponibilidad de días del solicitante" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
           <mxGeometry x="105" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-64" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-3" source="NhI2pOyRwKVzvRlpXE7j-51" target="NhI2pOyRwKVzvRlpXE7j-65">
