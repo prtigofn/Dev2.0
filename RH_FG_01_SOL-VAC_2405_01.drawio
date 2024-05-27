@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T22:02:10.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SQzakynbUe4f0cAORQXL" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T22:20:57.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rSeuUfQZfI9r90Eqvt_m" version="24.4.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,11 +73,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tY38lUPqZ8C55xfi6Ca6" name="Página-2">
-    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-1" value="RH_FG_01_SOL-VAC_2405_01 - Solicitud de Vacaciones" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#002060;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-1" value="RH_FG_01_SOL-VAC_2405_01 - Solicitud de Vacaciones" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#002060;strokeColor=#000000;fontColor=#ffffff;strokeWidth=2;perimeterSpacing=6;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="950" height="1450" as="geometry" />
         </mxCell>
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-2" value="Colaborador" style="swimlane;startSize=20;html=1;fillColor=#FFC000;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-1">
@@ -235,7 +235,7 @@
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-75" value="Proceso de pago de vacaciones" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-6">
           <mxGeometry x="47.5" y="1266" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-1" source="NhI2pOyRwKVzvRlpXE7j-69" target="NhI2pOyRwKVzvRlpXE7j-75">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-1" source="NhI2pOyRwKVzvRlpXE7j-67" target="NhI2pOyRwKVzvRlpXE7j-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
