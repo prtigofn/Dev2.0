@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T00:09:07.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="poNbKBoDTJnr6f04I0wV" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-28T00:12:16.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="URKJxwyC55uqUYhTpk-j" version="24.4.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
         <mxCell id="NhI2pOyRwKVzvRlpXE7j-67" value="15.Notificar a contabilidad del pago anticipado por vacaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
           <mxGeometry x="166" y="1178" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NhI2pOyRwKVzvRlpXE7j-69" value="16. Notificar a solicitante" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
+        <mxCell id="NhI2pOyRwKVzvRlpXE7j-69" value="16. Notificar al solicitante de la aprobación de sus vacaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="NhI2pOyRwKVzvRlpXE7j-3">
           <mxGeometry x="166" y="1276" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2iIIKkvK4nBpQ2Dj_4Cv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NhI2pOyRwKVzvRlpXE7j-3" source="NhI2pOyRwKVzvRlpXE7j-69" target="2iIIKkvK4nBpQ2Dj_4Cv-1">
