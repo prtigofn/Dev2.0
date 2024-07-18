@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T16:44:50.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.2" etag="EBdxQ6oP-ympxrSLhK-_" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T16:49:33.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="h_86_XgZAO47zXAlMUiG" version="24.5.2" type="github">
   <diagram name="Página-1" id="qACheUv4EkO8liwAzUcL">
-    <mxGraphModel>
+    <mxGraphModel dx="2284" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7ghBcvJQ042745n4Hg-b-2" value="Necesidades de negocio" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="190" width="200" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="7ghBcvJQ042745n4Hg-b-3" value="Salidas - generación de valor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="210" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="7ghBcvJQ042745n4Hg-b-4" value="Estratégicos" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="540" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7ghBcvJQ042745n4Hg-b-5" value="Administrativos" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="540" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7ghBcvJQ042745n4Hg-b-6" value="Operativos" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="540" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7ghBcvJQ042745n4Hg-b-7" value="Control" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="950" width="970" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7ghBcvJQ042745n4Hg-b-8" value="Soporte" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="60" y="790" width="540" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7ghBcvJQ042745n4Hg-b-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="170" width="1020" height="910" as="geometry">
+            <mxRectangle x="-170" y="170" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
