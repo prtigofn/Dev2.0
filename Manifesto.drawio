@@ -1,27 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T17:05:23.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZlDCNEFwf3yDW1pFcxZg" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T17:09:37.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dblkrvKjr5XBIFufbzUb" version="24.5.2" type="github">
   <diagram name="Página-1" id="qACheUv4EkO8liwAzUcL">
-    <mxGraphModel dx="2045" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7ghBcvJQ042745n4Hg-b-2" value="Necesidades de mercado" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7ghBcvJQ042745n4Hg-b-2" value="Necesidades de mercado" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFC000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-150" y="190" width="200" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="7ghBcvJQ042745n4Hg-b-3" value="Salidas - generación de valor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7ghBcvJQ042745n4Hg-b-3" value="Salidas - generación de valor" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFC000;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="610" y="190" width="210" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="7ghBcvJQ042745n4Hg-b-4" value="Estratégicos" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="540" height="130" as="geometry" />
+        <mxCell id="7ghBcvJQ042745n4Hg-b-4" value="Estratégicos" style="swimlane;fillColor=#FFC000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="540" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7ghBcvJQ042745n4Hg-b-5" value="Administrativos" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="7ghBcvJQ042745n4Hg-b-5" value="Administrativos" style="swimlane;fillColor=#FFC000;" vertex="1" parent="1">
           <mxGeometry x="60" y="650" width="540" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7ghBcvJQ042745n4Hg-b-6" value="Operativos" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="60" y="340" width="540" height="300" as="geometry">
+        <mxCell id="7ghBcvJQ042745n4Hg-b-6" value="Operativos" style="swimlane;fillColor=#FFC000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="540" height="340" as="geometry">
             <mxRectangle x="60" y="340" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ghBcvJQ042745n4Hg-b-8" value="Soporte" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="7ghBcvJQ042745n4Hg-b-8" value="Soporte" style="swimlane;fillColor=#FFC000;" vertex="1" parent="1">
           <mxGeometry x="60" y="790" width="540" height="80" as="geometry">
             <mxRectangle x="60" y="790" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-12" value="(PR0001)&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Descubrimiento&lt;/span&gt;&lt;/div&gt;" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
-          <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7ghBcvJQ042745n4Hg-b-9" source="7ghBcvJQ042745n4Hg-b-16" target="7ghBcvJQ042745n4Hg-b-17">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-15" value="(PR0002)&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Análisis y Ordenamiento&lt;/span&gt;&lt;/div&gt;" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
-          <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-14" value="(PR0004)&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Community Management&lt;/span&gt;&lt;/div&gt;" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
           <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-13" value="(PR0003) Taller de Personalidad" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
-          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-18" value="(PR0007)&amp;nbsp;&lt;div&gt;Eventos&lt;/div&gt;" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
           <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
@@ -111,7 +111,7 @@
         <mxCell id="7ghBcvJQ042745n4Hg-b-35" value="Gestion de redes sociales&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Lanzamiento de Marca&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Desarrollo de Marca&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Posicionamiento de Mercado&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
           <mxGeometry x="800" y="80" width="180" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="7ghBcvJQ042745n4Hg-b-7" value="Control" style="swimlane;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
+        <mxCell id="7ghBcvJQ042745n4Hg-b-7" value="Control" style="swimlane;fillColor=#FFC000;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
           <mxGeometry x="20" y="710" width="970" height="120" as="geometry" />
         </mxCell>
       </root>
