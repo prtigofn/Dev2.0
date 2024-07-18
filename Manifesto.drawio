@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T17:17:13.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ahh8DHOea7cRCQ0ejKZk" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T17:46:50.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fWWfus-RsB_gXgzfdi65" version="24.5.2" type="github">
   <diagram name="Página-1" id="qACheUv4EkO8liwAzUcL">
-    <mxGraphModel dx="2284" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="180" width="1000" height="840" as="geometry">
-            <mxRectangle x="-170" y="170" width="50" height="40" as="alternateBounds" />
+            <mxRectangle x="-170" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7ghBcvJQ042745n4Hg-b-9" source="7ghBcvJQ042745n4Hg-b-12" target="7ghBcvJQ042745n4Hg-b-15">
@@ -92,7 +92,7 @@
           <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-18" value="(PR0007)&amp;nbsp;&lt;div&gt;Eventos&lt;/div&gt;" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
-          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ghBcvJQ042745n4Hg-b-17" value="(PR0006)&amp;nbsp;&lt;div&gt;Web Services&lt;/div&gt;" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="7ghBcvJQ042745n4Hg-b-9">
           <mxGeometry x="640" y="340" width="120" height="60" as="geometry" />
@@ -111,7 +111,7 @@
             <mxRectangle x="60" y="790" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ghBcvJQ042745n4Hg-b-37" value="Necesidades de mercado" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFC000;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="7ghBcvJQ042745n4Hg-b-38" value="Necesidades de mercado" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFC000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-150" y="190" width="200" height="680" as="geometry" />
         </mxCell>
       </root>
