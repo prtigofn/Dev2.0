@@ -265,11 +265,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ytr2BMaVXfbYTs0FCxOI" name="Página-4">
-    <mxGraphModel dx="2607" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z2PNZBZcIhWz65c71THJ-30" value="Control" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="z2PNZBZcIhWz65c71THJ-30" value="Control (8)" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="21" y="1934" width="1640" height="170" as="geometry">
             <mxRectangle x="40" y="2040" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -318,7 +318,7 @@
         <mxCell id="z2PNZBZcIhWz65c71THJ-42" value="Control de saldo de volumen INAB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z2PNZBZcIhWz65c71THJ-41">
           <mxGeometry x="49" y="36" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z2PNZBZcIhWz65c71THJ-43" value="Estrategico" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="z2PNZBZcIhWz65c71THJ-43" value="Estratégico (8)" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="151" y="70" width="1310" height="420" as="geometry">
             <mxRectangle x="80" y="120" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -423,7 +423,7 @@
         <mxCell id="z2PNZBZcIhWz65c71THJ-46" value="Seguimiento de Asociación de Ganaderos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z2PNZBZcIhWz65c71THJ-44">
           <mxGeometry x="150" y="33" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z2PNZBZcIhWz65c71THJ-72" value="Operativo" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="z2PNZBZcIhWz65c71THJ-72" value="Operativo (59)" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="151" y="520" width="1310" height="860" as="geometry">
             <mxRectangle x="110" y="800" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -655,7 +655,7 @@
         <mxCell id="z2PNZBZcIhWz65c71THJ-141" value="Implementación de Seguridad Ocupacional" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z2PNZBZcIhWz65c71THJ-140">
           <mxGeometry x="51.5" y="38" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z2PNZBZcIhWz65c71THJ-142" value="Soporte" style="swimlane;startSize=23;" vertex="1" parent="1">
+        <mxCell id="z2PNZBZcIhWz65c71THJ-142" value="Soporte (37)" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="153" y="1390" width="1310" height="530" as="geometry">
             <mxRectangle x="110" y="1480" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
