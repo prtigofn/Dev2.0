@@ -479,60 +479,60 @@
           <mxGeometry x="10" y="162" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-98" value="Operativo-04. Operaciones y Logística" style="swimlane;fontColor=#000000;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-72" vertex="1">
-          <mxGeometry x="30" y="39" width="680" height="250" as="geometry">
+          <mxGeometry x="9" y="39" width="771" height="250" as="geometry">
             <mxRectangle x="80" y="39" width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-99" value="Apilado de tablas dentro de aserradero" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="142" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="136" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-100" value="Gestión de flota de vehículos administrativos" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="275" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="262" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-101" value="Abastecimiento y control de consumo de quimicos" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="407" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="388" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-102" value="Transporte de combustible para otros cascos" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="543" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="514" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-103" value="Entrega de hojas de maquinaria" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
           <mxGeometry x="10" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-104" value="Gestión de cercas" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="142" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-105" value="Mantenimiento de maquinaria" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="275" y="103" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="103" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-106" value="Digitalización de hojas de maquinaria" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="407" y="103" width="120" height="60" as="geometry" />
+          <mxGeometry x="483" y="103" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-107" value="Distribución de uso de maquinaria" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="543" y="103" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="103" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-108" value="Operación de Maquinaria forestal" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
           <mxGeometry x="10" y="103" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-109" value="Gestión administrativa de taller" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="142" y="103" width="120" height="60" as="geometry" />
+          <mxGeometry x="168" y="103" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-110" value="Reparación de maquinaria (menores)" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="275" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-111" value="Entrega de ganado" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="407" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="483" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-112" value="Transporte de leña" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="543" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-113" value="Transporte de producto primario" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
           <mxGeometry x="10" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-114" value="Transporte de trocilla para tarima" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-98" vertex="1">
-          <mxGeometry x="142" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="168" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-115" value="Operativo-05. Control de Calidad" style="swimlane;fontColor=#000000;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-72" vertex="1">
-          <mxGeometry x="730" y="39" width="430" height="110" as="geometry">
+          <mxGeometry x="869" y="39" width="430" height="110" as="geometry">
             <mxRectangle x="40" y="270" width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -582,7 +582,7 @@
           <mxGeometry x="56" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-129" value="Operativo-10. Gestión Ambiental y Sostenibilidad" style="swimlane;fontColor=#000000;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-72" vertex="1">
-          <mxGeometry x="980" y="170" width="294" height="110" as="geometry">
+          <mxGeometry x="1005" y="179" width="294" height="110" as="geometry">
             <mxRectangle x="40" y="290" width="300" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -619,7 +619,7 @@
           <mxGeometry x="10" y="99" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-140" value="Operativo-15. Gestión de Riesgos" style="swimlane;fontColor=#000000;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-72" vertex="1">
-          <mxGeometry x="730" y="170" width="224" height="110" as="geometry">
+          <mxGeometry x="786" y="200" width="224" height="110" as="geometry">
             <mxRectangle x="40" y="40" width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
