@@ -236,7 +236,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ytr2BMaVXfbYTs0FCxOI" name="Mapa de Procesos">
-    <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,7 +331,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-57" value="Supervisión de proceso general de transformación" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-56" vertex="1">
-          <mxGeometry x="37.5" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="37.5" y="32" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-58" value="Estrategico-06. Ventas y Marketing" style="swimlane;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-43" vertex="1">
           <mxGeometry x="563" y="194" width="697" height="190" as="geometry">
@@ -339,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-59" value="Arrendamiento de tierras para siembra de caña" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-58" vertex="1">
-          <mxGeometry x="144" y="106" width="120" height="60" as="geometry" />
+          <mxGeometry x="147" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-60" value="Arrendamiento de tierras para siembra de maiz" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-58" vertex="1">
           <mxGeometry x="558" y="34" width="120" height="60" as="geometry" />
@@ -348,27 +348,27 @@
           <mxGeometry x="10" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-62" value="Venta de ganado" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-58" vertex="1">
-          <mxGeometry x="144" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="147" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-63" value="Busqueda de clientes" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-58" vertex="1">
-          <mxGeometry x="283" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="284" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-64" value="Definición de precio" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-58" vertex="1">
-          <mxGeometry x="420" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="421" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-65" value="Gestión de Clientes recurrentes" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-58" vertex="1">
           <mxGeometry x="10" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-66" value="Estrategico-09. Investigación y Desarrollo" style="swimlane;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-43" vertex="1">
-          <mxGeometry x="1005" y="45" width="280" height="110" as="geometry">
+          <mxGeometry x="1005" y="50" width="280" height="100" as="geometry">
             <mxRectangle x="20" y="220" width="260" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-67" value="Innovación (RyD forestal)" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-66" vertex="1">
-          <mxGeometry x="70" y="36" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="31" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-68" value="Estrategico-12. Compras y Suministros" style="swimlane;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-43" vertex="1">
-          <mxGeometry x="16" y="300" width="245" height="110" as="geometry">
+          <mxGeometry x="29" y="300" width="245" height="110" as="geometry">
             <mxRectangle x="15" y="300" width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -376,7 +376,7 @@
           <mxGeometry x="55" y="37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-70" value="Estrategico-13. Legal y Cumplimiento" style="swimlane;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-43" vertex="1">
-          <mxGeometry x="300" y="300" width="240" height="110" as="geometry">
+          <mxGeometry x="289" y="300" width="240" height="110" as="geometry">
             <mxRectangle x="20" y="260" width="240" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -384,15 +384,15 @@
           <mxGeometry x="56" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-44" value="Estrategico-01. Dirección General" style="swimlane;fillColor=#FFC000;" parent="z2PNZBZcIhWz65c71THJ-43" vertex="1">
-          <mxGeometry x="714" y="45" width="280" height="110" as="geometry">
+          <mxGeometry x="714" y="50" width="280" height="100" as="geometry">
             <mxRectangle x="20" y="40" width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-45" value="Organización de eventos en la finca" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-44" vertex="1">
-          <mxGeometry x="20" y="33" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="31" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-46" value="Seguimiento de Asociación de Ganaderos" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-44" vertex="1">
-          <mxGeometry x="150" y="33" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="31" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-72" value="Operativo (59)" style="swimlane;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="151" y="520" width="1310" height="860" as="geometry">
