@@ -236,12 +236,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ytr2BMaVXfbYTs0FCxOI" name="Mapa de Procesos">
-    <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z2PNZBZcIhWz65c71THJ-30" value="Control (8)" style="swimlane;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="21" y="1913" width="1640" height="170" as="geometry">
+          <mxGeometry x="21" y="1957" width="1640" height="170" as="geometry">
             <mxRectangle x="40" y="2040" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -290,7 +290,7 @@
           <mxGeometry x="49" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-43" value="Estratégico (8)" style="swimlane;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="151" y="98" width="1310" height="420" as="geometry">
+          <mxGeometry x="151" y="142" width="1310" height="420" as="geometry">
             <mxRectangle x="80" y="120" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -395,7 +395,7 @@
           <mxGeometry x="150" y="31" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-72" value="Operativo (59)" style="swimlane;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="151" y="520" width="1310" height="860" as="geometry">
+          <mxGeometry x="151" y="564" width="1310" height="860" as="geometry">
             <mxRectangle x="110" y="800" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -627,7 +627,7 @@
           <mxGeometry x="51.5" y="38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-142" value="Soporte (37)" style="swimlane;startSize=23;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="152" y="1381" width="1310" height="530" as="geometry">
+          <mxGeometry x="152" y="1425" width="1310" height="530" as="geometry">
             <mxRectangle x="110" y="1480" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -777,6 +777,33 @@
         <mxCell id="z2PNZBZcIhWz65c71THJ-186" value="Solicitudes y Entregas de insumos de sub-bodega" style="rounded=1;whiteSpace=wrap;html=1;" parent="z2PNZBZcIhWz65c71THJ-177" vertex="1">
           <mxGeometry x="505" y="102" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-1" value="" style="group" vertex="1" parent="1">
+          <mxGeometry x="540" y="20" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-2" value="Diagrama de Mapa de Procesos" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#002060;fontSize=18;fontColor=#FFC000;fontStyle=1;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-1">
+          <mxGeometry width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-3" value="" style="group" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-1">
+          <mxGeometry y="30" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-4" value="Empresa: Finca San Juan Bosco" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
+          <mxGeometry width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-5" value="Departamento: Dirección General" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
+          <mxGeometry x="300" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-6" value="Proceso: Mapa de procesos (Inventario)" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
+          <mxGeometry y="20" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-7" value="Fecha: 24/09/2004" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
+          <mxGeometry x="300" y="20" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-8" value="Versión: 1.0" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
+          <mxGeometry y="40" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-9" value="Responsable: CBI Latam" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
+          <mxGeometry x="300" y="40" width="290" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -786,7 +813,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IaFn9HRnt56dZxtYnOid-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="23" y="-214" width="800" height="140" as="geometry" />
+          <mxGeometry x="23" y="-170" width="800" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IaFn9HRnt56dZxtYnOid-2" value="13. Legal y Cumplimiento &lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(1)&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="IaFn9HRnt56dZxtYnOid-1">
           <mxGeometry x="60" y="50" width="120" height="80" as="geometry" />
@@ -813,7 +840,7 @@
           <mxGeometry x="570" y="10" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IaFn9HRnt56dZxtYnOid-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="103" y="-414" width="660" height="200" as="geometry" />
+          <mxGeometry x="103" y="-370" width="660" height="200" as="geometry" />
         </mxCell>
         <mxCell id="IaFn9HRnt56dZxtYnOid-11" value="04. Operaciones y Logística &lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(5)&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="IaFn9HRnt56dZxtYnOid-10">
           <mxGeometry x="340" y="110" width="120" height="80" as="geometry" />
@@ -846,7 +873,7 @@
           <mxGeometry x="410" y="10" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IaFn9HRnt56dZxtYnOid-21" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="103" y="-734" width="660" height="320" as="geometry" />
+          <mxGeometry x="103" y="-690" width="660" height="320" as="geometry" />
         </mxCell>
         <mxCell id="IaFn9HRnt56dZxtYnOid-22" value="15. Gestión de Riesgos &lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(1)&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="IaFn9HRnt56dZxtYnOid-21">
           <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
@@ -900,7 +927,7 @@
           <mxGeometry x="319.5" y="176" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IaFn9HRnt56dZxtYnOid-39" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="103" y="-994" width="660" height="260" as="geometry">
+          <mxGeometry x="103" y="-950" width="660" height="260" as="geometry">
             <mxRectangle x="120" y="-1010" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -945,6 +972,33 @@
         </mxCell>
         <mxCell id="IaFn9HRnt56dZxtYnOid-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.56;dx=19;direction=south;notch=0;" vertex="1" parent="IaFn9HRnt56dZxtYnOid-39">
           <mxGeometry x="320" y="118" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-9" value="" style="group" vertex="1" parent="1">
+          <mxGeometry x="125" y="-1080" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-10" value="Diagrama de Mapa de Procesos" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#002060;fontSize=18;fontColor=#FFC000;fontStyle=1;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-9">
+          <mxGeometry width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-11" value="" style="group" vertex="1" parent="H3t087-sauGSh_yQ8KFh-9">
+          <mxGeometry y="30" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-12" value="Empresa: Finca San Juan Bosco" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+          <mxGeometry width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-13" value="Departamento: Dirección General" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+          <mxGeometry x="300" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-14" value="Proceso: DFD-0" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+          <mxGeometry y="20" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-15" value="Fecha: 24/09/2004" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+          <mxGeometry x="300" y="20" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-16" value="Versión: 1.0" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+          <mxGeometry y="40" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3t087-sauGSh_yQ8KFh-17" value="Responsable: CBI Latam" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+          <mxGeometry x="300" y="40" width="290" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
