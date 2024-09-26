@@ -236,12 +236,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ytr2BMaVXfbYTs0FCxOI" name="Mapa de Procesos">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z2PNZBZcIhWz65c71THJ-30" value="Control (8)" style="swimlane;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="21" y="1934" width="1640" height="170" as="geometry">
+          <mxGeometry x="21" y="1913" width="1640" height="170" as="geometry">
             <mxRectangle x="40" y="2040" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -290,7 +290,7 @@
           <mxGeometry x="49" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-43" value="Estratégico (8)" style="swimlane;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="151" y="70" width="1310" height="420" as="geometry">
+          <mxGeometry x="151" y="98" width="1310" height="420" as="geometry">
             <mxRectangle x="80" y="120" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -627,7 +627,7 @@
           <mxGeometry x="51.5" y="38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2PNZBZcIhWz65c71THJ-142" value="Soporte (37)" style="swimlane;startSize=23;fillColor=#002060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="153" y="1390" width="1310" height="530" as="geometry">
+          <mxGeometry x="152" y="1381" width="1310" height="530" as="geometry">
             <mxRectangle x="110" y="1480" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
