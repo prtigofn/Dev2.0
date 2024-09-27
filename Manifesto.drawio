@@ -807,7 +807,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vCKBNtWpebCHhtuO02zb" name="DFD0">
+  <diagram id="vCKBNtWpebCHhtuO02zb" name="Diagrama General">
     <mxGraphModel dx="1434" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -976,7 +976,7 @@
         <mxCell id="H3t087-sauGSh_yQ8KFh-9" value="" style="group" vertex="1" parent="1">
           <mxGeometry x="125" y="-1080" width="600" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H3t087-sauGSh_yQ8KFh-10" value="Diagrama de Mapa de Procesos" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#002060;fontSize=18;fontColor=#FFC000;fontStyle=1;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-9">
+        <mxCell id="H3t087-sauGSh_yQ8KFh-10" value="Diagrama de General de Procesos" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#002060;fontSize=18;fontColor=#FFC000;fontStyle=1;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-9">
           <mxGeometry width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3t087-sauGSh_yQ8KFh-11" value="" style="group" vertex="1" parent="H3t087-sauGSh_yQ8KFh-9">
@@ -988,7 +988,7 @@
         <mxCell id="H3t087-sauGSh_yQ8KFh-13" value="Departamento: Dirección General" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
           <mxGeometry x="300" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H3t087-sauGSh_yQ8KFh-14" value="Proceso: Diegarma General" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+        <mxCell id="H3t087-sauGSh_yQ8KFh-14" value="Proceso: Diegrama General" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
           <mxGeometry y="20" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H3t087-sauGSh_yQ8KFh-15" value="Fecha: 24/09/2004" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
@@ -997,7 +997,7 @@
         <mxCell id="H3t087-sauGSh_yQ8KFh-16" value="Versión: 1.0" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
           <mxGeometry y="40" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H3t087-sauGSh_yQ8KFh-17" value="Responsable: CBI Latam" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
+        <mxCell id="H3t087-sauGSh_yQ8KFh-17" value="Responsable: emejia" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="H3t087-sauGSh_yQ8KFh-11">
           <mxGeometry x="300" y="40" width="290" height="20" as="geometry" />
         </mxCell>
       </root>
