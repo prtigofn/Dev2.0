@@ -780,7 +780,7 @@
         <mxCell id="ePB9ZdjZE_6muiWXgS1r-1" value="" style="group" vertex="1" parent="1">
           <mxGeometry x="540" y="20" width="600" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ePB9ZdjZE_6muiWXgS1r-2" value="Diagrama de Mapa de Procesos" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#002060;fontSize=18;fontColor=#FFC000;fontStyle=1;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-1">
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-2" value="Mapa de Procesos" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#002060;fontSize=18;fontColor=#FFC000;fontStyle=1;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-1">
           <mxGeometry width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ePB9ZdjZE_6muiWXgS1r-3" value="" style="group" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-1">
@@ -801,7 +801,7 @@
         <mxCell id="ePB9ZdjZE_6muiWXgS1r-8" value="Versión: 1.0" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
           <mxGeometry y="40" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ePB9ZdjZE_6muiWXgS1r-9" value="Responsable: CBI Latam" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
+        <mxCell id="ePB9ZdjZE_6muiWXgS1r-9" value="Responsable: emejia" style="text;align=left;whiteSpace=wrap;fillColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="ePB9ZdjZE_6muiWXgS1r-3">
           <mxGeometry x="300" y="40" width="290" height="20" as="geometry" />
         </mxCell>
       </root>
