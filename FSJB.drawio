@@ -853,12 +853,12 @@
         <mxCell id="FLlAEXzbHjZweypi2iRU-12" value="4. Calibrar báscula" style="rounded=1;whiteSpace=wrap;html=1;" parent="oYHx6eltpZ1rt-yPD6hr-23" vertex="1">
           <mxGeometry x="-260" y="206" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FLlAEXzbHjZweypi2iRU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oYHx6eltpZ1rt-yPD6hr-23" edge="1">
+        <mxCell id="FLlAEXzbHjZweypi2iRU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="oYHx6eltpZ1rt-yPD6hr-23" source="FLlAEXzbHjZweypi2iRU-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-200" y="321" />
             </Array>
-            <mxPoint x="-199.9411764705883" y="257.0000000000002" as="sourcePoint" />
+            <mxPoint x="-200" y="290" as="sourcePoint" />
             <mxPoint x="100" y="321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -922,6 +922,10 @@
         <mxCell id="9LxAUX6RgB-6aNvWQlGG-13" value="Mitad del proceso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="oYHx6eltpZ1rt-yPD6hr-23" source="9LxAUX6RgB-6aNvWQlGG-5" target="FLlAEXzbHjZweypi2iRU-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-180" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="400" />
+              <mxPoint x="-230" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9LxAUX6RgB-6aNvWQlGG-14" value="Mitad del proceso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="oYHx6eltpZ1rt-yPD6hr-23" source="FLlAEXzbHjZweypi2iRU-12" target="9LxAUX6RgB-6aNvWQlGG-5" edge="1">
