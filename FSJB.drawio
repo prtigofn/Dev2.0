@@ -934,7 +934,7 @@
           <mxGeometry x="660" y="40" width="270" height="2120" as="geometry" />
         </mxCell>
         <mxCell id="DrYmtzh6EL9UuElNgyzR-12" value="15. Ordenar ganado" style="rounded=1;whiteSpace=wrap;html=1;" parent="niJyDI7PR8dC_mDymDL2-2" vertex="1">
-          <mxGeometry x="75" y="1459" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="1451" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DrYmtzh6EL9UuElNgyzR-31" value="24. Calcular valor" style="rounded=1;whiteSpace=wrap;html=1;" parent="niJyDI7PR8dC_mDymDL2-2" vertex="1">
           <mxGeometry x="-540" y="1927" width="120" height="60" as="geometry" />
