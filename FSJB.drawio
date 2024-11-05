@@ -917,7 +917,7 @@
           <mxGeometry x="90" y="1219" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DrYmtzh6EL9UuElNgyzR-18" value="18. Marcar ganado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="oYHx6eltpZ1rt-yPD6hr-23" vertex="1">
-          <mxGeometry x="90" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1306" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LxAUX6RgB-6aNvWQlGG-13" value="Mitad del proceso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="oYHx6eltpZ1rt-yPD6hr-23" source="9LxAUX6RgB-6aNvWQlGG-5" target="FLlAEXzbHjZweypi2iRU-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -983,8 +983,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-490" y="1458" />
-              <mxPoint x="-490" y="1410" />
-              <mxPoint x="-410" y="1410" />
+              <mxPoint x="-490" y="1390" />
+              <mxPoint x="-410" y="1390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -997,7 +997,7 @@
         <mxCell id="DrYmtzh6EL9UuElNgyzR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="DrYmtzh6EL9UuElNgyzR-10" target="DrYmtzh6EL9UuElNgyzR-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DrYmtzh6EL9UuElNgyzR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="DrYmtzh6EL9UuElNgyzR-12" target="DrYmtzh6EL9UuElNgyzR-18" edge="1">
+        <mxCell id="DrYmtzh6EL9UuElNgyzR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="DrYmtzh6EL9UuElNgyzR-12" target="DrYmtzh6EL9UuElNgyzR-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="1421" as="sourcePoint" />
           </mxGeometry>
