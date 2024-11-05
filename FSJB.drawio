@@ -955,7 +955,7 @@
         <mxCell id="niJyDI7PR8dC_mDymDL2-9" value="Secretaria" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="930" y="40" width="230" height="1860" as="geometry" />
         </mxCell>
-        <mxCell id="DrYmtzh6EL9UuElNgyzR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="niJyDI7PR8dC_mDymDL2-9" source="DrYmtzh6EL9UuElNgyzR-22" target="DrYmtzh6EL9UuElNgyzR-26" edge="1">
+        <mxCell id="DrYmtzh6EL9UuElNgyzR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="niJyDI7PR8dC_mDymDL2-9" source="DrYmtzh6EL9UuElNgyzR-22" target="DrYmtzh6EL9UuElNgyzR-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DrYmtzh6EL9UuElNgyzR-20" value="19. Pesar ganado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="niJyDI7PR8dC_mDymDL2-9" vertex="1">
@@ -968,7 +968,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DrYmtzh6EL9UuElNgyzR-26" value="22. Cargar ganado en camión" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="niJyDI7PR8dC_mDymDL2-9" vertex="1">
-          <mxGeometry x="80" y="1513" width="120" height="60" as="geometry" />
+          <mxGeometry x="-199" y="1513" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DrYmtzh6EL9UuElNgyzR-53" value="Generación de facturas" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;" parent="niJyDI7PR8dC_mDymDL2-9" vertex="1">
           <mxGeometry x="90" y="1763" width="80" height="80" as="geometry" />
