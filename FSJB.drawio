@@ -903,7 +903,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PR-FN-00013 - Pesa de ganado" id="ply4Z0BIlygeCLuxo8_7">
-    <mxGraphModel dx="1687" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--0" />
         <mxCell id="z76Yd-_TqC5u3ma_fdH--1" parent="z76Yd-_TqC5u3ma_fdH--0" />
@@ -960,7 +960,7 @@
           <mxGeometry x="100" y="1040" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lf-7iFgtfHPIcJXy-IMm-0" value="PR-FN-00009: Crianza  - Producción" style="shape=offPageConnector;fontSize=16;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
-          <mxGeometry x="260" y="890" width="41" height="40" as="geometry" />
+          <mxGeometry x="260" y="880" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-28" value="PR-FN-00008:&#xa;Actualización de listas de ganado" style="shape=offPageConnector;fontSize=16;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="119.5" y="1693" width="41" height="40" as="geometry" />
