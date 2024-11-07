@@ -908,7 +908,7 @@
         <mxCell id="z76Yd-_TqC5u3ma_fdH--0" />
         <mxCell id="z76Yd-_TqC5u3ma_fdH--1" parent="z76Yd-_TqC5u3ma_fdH--0" />
         <mxCell id="z76Yd-_TqC5u3ma_fdH--2" value="Gerente General" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--1">
-          <mxGeometry x="40" y="40" width="360" height="1780" as="geometry" />
+          <mxGeometry x="39" y="40" width="360" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" source="z76Yd-_TqC5u3ma_fdH--4" target="z76Yd-_TqC5u3ma_fdH--5">
           <mxGeometry relative="1" as="geometry" />
@@ -933,7 +933,7 @@
         <mxCell id="z76Yd-_TqC5u3ma_fdH--11" value="10. ¿Es novilla de descarte?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="140" y="651" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z76Yd-_TqC5u3ma_fdH--13" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" target="z76Yd-_TqC5u3ma_fdH--18">
+        <mxCell id="z76Yd-_TqC5u3ma_fdH--13" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" target="z76Yd-_TqC5u3ma_fdH--18" source="z76Yd-_TqC5u3ma_fdH--11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="770" as="targetPoint" />
             <mxPoint x="180.0588235294117" y="729.9411764705878" as="sourcePoint" />
@@ -942,8 +942,11 @@
         <mxCell id="z76Yd-_TqC5u3ma_fdH--15" value="16. Calibrar báscula para venta" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="80" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z76Yd-_TqC5u3ma_fdH--18" value="PR-FN-00009: Crianza  - Asignación de correlativos" style="shape=offPageConnector;fontSize=16;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
-          <mxGeometry x="158.5" y="780" width="41" height="40" as="geometry" />
+        <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" source="z76Yd-_TqC5u3ma_fdH--18" target="ZpUDKGh1wVOPU7qc_Iqo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z76Yd-_TqC5u3ma_fdH--18" value="PR-FN-00009: Crianza  - Asignación de correlativos" style="shape=offPageConnector;fontSize=16;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
+          <mxGeometry x="61.5" y="781" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--19" value="19. Documentar peso en listas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="80" y="1517" width="120" height="60" as="geometry" />
@@ -956,7 +959,7 @@
         <mxCell id="z76Yd-_TqC5u3ma_fdH--21" value="INICIO" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="100" y="1040" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lf-7iFgtfHPIcJXy-IMm-0" value="PR-FN-00004: Alimentación&#xa;de ganado de engorde" style="shape=offPageConnector;fontSize=16;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
+        <mxCell id="lf-7iFgtfHPIcJXy-IMm-0" value="PR-FN-00009: Crianza  - Producción" style="shape=offPageConnector;fontSize=16;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="260" y="890" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-28" value="PR-FN-00008:&#xa;Actualización de listas de ganado" style="shape=offPageConnector;fontSize=16;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
@@ -972,6 +975,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="691" y="1543" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-32" value="PR-FN-00004: Alimentación&lt;br&gt;de ganado de engorde" style="shape=offPageConnector;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;html=1;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
+          <mxGeometry x="61.5" y="880" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--22" value="Vaqueros" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--1">
           <mxGeometry x="400" y="40" width="260" height="1780" as="geometry" />
