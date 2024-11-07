@@ -772,23 +772,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oYHx6eltpZ1rt-yPD6hr-1" value="Jefe de vaqueros" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="oYHx6eltpZ1rt-yPD6hr-1" value="Gerente General" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="360" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="oYHx6eltpZ1rt-yPD6hr-3" value="INICIO" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;" parent="oYHx6eltpZ1rt-yPD6hr-1" vertex="1">
-          <mxGeometry x="150" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="127" y="60" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oYHx6eltpZ1rt-yPD6hr-23" value="Gerente General" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="400" y="40" width="260" height="1780" as="geometry" />
-        </mxCell>
-        <mxCell id="yg4im8KjUyEwOgaLJjGs-3" value="1. Enviar listas de ganado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-23">
-          <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yg4im8KjUyEwOgaLJjGs-4" value="&lt;span style=&quot;font-size: 16px;&quot; lang=&quot;ES-TRAD&quot;&gt;PR-FN-00009: Crianza&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-23">
-          <mxGeometry x="80" y="33" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yg4im8KjUyEwOgaLJjGs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oYHx6eltpZ1rt-yPD6hr-23" source="yg4im8KjUyEwOgaLJjGs-4" target="yg4im8KjUyEwOgaLJjGs-3">
+        <mxCell id="yg4im8KjUyEwOgaLJjGs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oYHx6eltpZ1rt-yPD6hr-1" source="yg4im8KjUyEwOgaLJjGs-8" target="yg4im8KjUyEwOgaLJjGs-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg4im8KjUyEwOgaLJjGs-8" value="2. Requerir disponibilidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="107" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yg4im8KjUyEwOgaLJjGs-10" value="3. Revisar Disponibilidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="107" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yg4im8KjUyEwOgaLJjGs-3" value="1. Enviar listas de ganado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="107" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yg4im8KjUyEwOgaLJjGs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15.000000000000002;exitPerimeter=0;" edge="1" parent="oYHx6eltpZ1rt-yPD6hr-1" source="oYHx6eltpZ1rt-yPD6hr-3" target="yg4im8KjUyEwOgaLJjGs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg4im8KjUyEwOgaLJjGs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="oYHx6eltpZ1rt-yPD6hr-1" source="yg4im8KjUyEwOgaLJjGs-3" target="yg4im8KjUyEwOgaLJjGs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYHx6eltpZ1rt-yPD6hr-23" value="Jefe de vaqueros" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="260" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="niJyDI7PR8dC_mDymDL2-2" value="Cliente" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="660" y="40" width="270" height="1780" as="geometry" />
@@ -801,9 +810,6 @@
         </mxCell>
         <mxCell id="yg4im8KjUyEwOgaLJjGs-6" value="&lt;span style=&quot;font-size: 16px;&quot; lang=&quot;ES-TRAD&quot;&gt;PR-FN-00009: Crianza - Asignación&lt;br style=&quot;font-size: 16px;&quot;&gt;de correlativo en lote para venta&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="970.5" y="230" width="169" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yg4im8KjUyEwOgaLJjGs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15.000000000000002;exitPerimeter=0;" edge="1" parent="1" source="oYHx6eltpZ1rt-yPD6hr-3" target="yg4im8KjUyEwOgaLJjGs-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
