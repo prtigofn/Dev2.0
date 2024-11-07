@@ -97,7 +97,9 @@
           <mxGeometry x="80" y="111" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8DI5RLa8rBgTrl0TAv30-26" value="Boletín semanal" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="8DI5RLa8rBgTrl0TAv30-24" vertex="1">
-          <mxGeometry x="230" y="155" width="100" height="60" as="geometry" />
+          <mxGeometry x="230" y="155" width="100" height="60" as="geometry">
+            <mxRectangle x="230" y="155" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8DI5RLa8rBgTrl0TAv30-27" value="Precios por edad y sexo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8DI5RLa8rBgTrl0TAv30-26" vertex="1">
           <mxGeometry y="30" width="100" height="30" as="geometry" />
@@ -903,7 +905,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PR-FN-00013 - Pesa de ganado" id="ply4Z0BIlygeCLuxo8_7">
-    <mxGraphModel dx="2219" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--0" />
         <mxCell id="z76Yd-_TqC5u3ma_fdH--1" parent="z76Yd-_TqC5u3ma_fdH--0" />
@@ -978,6 +980,9 @@
         </mxCell>
         <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-32" value="PR-FN-00004: Alimentación&lt;br&gt;de ganado de engorde" style="shape=offPageConnector;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;html=1;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="61.5" y="880" width="41" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v0qDSYTguMdIf8LUE0FN-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/picons-social/57/23-whatsapp-2-128.png" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
+          <mxGeometry x="200" y="1510" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--22" value="Vaqueros" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--1">
           <mxGeometry x="400" y="40" width="260" height="1780" as="geometry" />
@@ -1154,7 +1159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SBqTeY6dg39gXx3RGl3p" name="PR-FN-00068 - Venta de ganado">
-    <mxGraphModel dx="2206" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2902" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1282,6 +1287,9 @@
         </mxCell>
         <mxCell id="yg4im8KjUyEwOgaLJjGs-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="oYHx6eltpZ1rt-yPD6hr-1" source="yg4im8KjUyEwOgaLJjGs-59" target="yg4im8KjUyEwOgaLJjGs-61">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc1qK4SzGGZ4phqdD4fM-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/picons-social/57/23-whatsapp-2-128.png" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="310" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oYHx6eltpZ1rt-yPD6hr-23" value="Vaqueros" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="260" height="1480" as="geometry" />
