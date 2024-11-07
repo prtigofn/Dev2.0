@@ -903,7 +903,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PR-FN-00013 - Pesa de ganado" id="ply4Z0BIlygeCLuxo8_7">
-    <mxGraphModel dx="1434" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--0" />
         <mxCell id="z76Yd-_TqC5u3ma_fdH--1" parent="z76Yd-_TqC5u3ma_fdH--0" />
@@ -969,7 +969,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-30" value="PR-FN-00068: Venta de&lt;br&gt;ganado" style="shape=offPageConnector;fontSize=16;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;html=1;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
-          <mxGeometry x="119.5" y="1610" width="41" height="40" as="geometry" />
+          <mxGeometry x="119.5" y="1621" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" source="z76Yd-_TqC5u3ma_fdH--19" target="ZpUDKGh1wVOPU7qc_Iqo-30">
           <mxGeometry relative="1" as="geometry">
@@ -1096,8 +1096,7 @@
         <mxCell id="z76Yd-_TqC5u3ma_fdH--61" value="1..n (ganado seleccionado)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--52" source="z76Yd-_TqC5u3ma_fdH--54" target="z76Yd-_TqC5u3ma_fdH--54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-440" y="1458" />
-              <mxPoint x="-490" y="1458" />
+              <mxPoint x="-490" y="1447" />
               <mxPoint x="-490" y="1348" />
               <mxPoint x="-410" y="1348" />
             </Array>
@@ -1155,7 +1154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SBqTeY6dg39gXx3RGl3p" name="PR-FN-00068 - Venta de ganado">
-    <mxGraphModel dx="2206" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
