@@ -968,7 +968,7 @@
         <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" source="ZpUDKGh1wVOPU7qc_Iqo-30" target="ZpUDKGh1wVOPU7qc_Iqo-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-30" value="PR-FN-00013: Venta de&lt;br&gt;ganado" style="shape=offPageConnector;fontSize=16;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;html=1;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
+        <mxCell id="ZpUDKGh1wVOPU7qc_Iqo-30" value="PR-FN-00068: Venta de&lt;br&gt;ganado" style="shape=offPageConnector;fontSize=16;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;html=1;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
           <mxGeometry x="119.5" y="1610" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" source="z76Yd-_TqC5u3ma_fdH--19" target="ZpUDKGh1wVOPU7qc_Iqo-30">
