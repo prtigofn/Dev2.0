@@ -946,7 +946,7 @@
           <mxGeometry x="158.5" y="780" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--19" value="19. Documentar peso en listas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="z76Yd-_TqC5u3ma_fdH--2">
-          <mxGeometry x="80" y="1516" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1517" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z76Yd-_TqC5u3ma_fdH--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z76Yd-_TqC5u3ma_fdH--2" source="z76Yd-_TqC5u3ma_fdH--21" target="z76Yd-_TqC5u3ma_fdH--15">
           <mxGeometry relative="1" as="geometry">
