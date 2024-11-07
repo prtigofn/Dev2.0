@@ -1350,13 +1350,13 @@
         <mxCell id="niJyDI7PR8dC_mDymDL2-9" value="Secretaria" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="930" y="40" width="230" height="1480" as="geometry" />
         </mxCell>
-        <mxCell id="X1bI32ypnxMWUchvlv50-1" value="Generación de facturas" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="niJyDI7PR8dC_mDymDL2-9">
+        <mxCell id="X1bI32ypnxMWUchvlv50-1" value="&lt;span style=&quot;font-size:9.0pt;font-family:&lt;br/&gt;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-ansi-language:ES-TRAD;&lt;br/&gt;mso-fareast-language:ES-TRAD;mso-bidi-language:AR-SA&quot; lang=&quot;ES-TRAD&quot;&gt;PR-FN-00082: Emisión de&lt;br/&gt;facturas a clientes&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="niJyDI7PR8dC_mDymDL2-9">
           <mxGeometry x="90" y="1380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X1bI32ypnxMWUchvlv50-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="niJyDI7PR8dC_mDymDL2-9" source="X1bI32ypnxMWUchvlv50-3" target="X1bI32ypnxMWUchvlv50-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X1bI32ypnxMWUchvlv50-3" value="Cobro de ganado" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="niJyDI7PR8dC_mDymDL2-9">
+        <mxCell id="X1bI32ypnxMWUchvlv50-3" value="&lt;span style=&quot;font-size:9.0pt;font-family:&lt;br/&gt;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-ansi-language:ES-TRAD;&lt;br/&gt;mso-fareast-language:ES-TRAD;mso-bidi-language:AR-SA&quot; lang=&quot;ES-TRAD&quot;&gt;PR-FN-00078: Cobro de&lt;br/&gt;venta de ganado&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="niJyDI7PR8dC_mDymDL2-9">
           <mxGeometry x="90" y="1260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yg4im8KjUyEwOgaLJjGs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="yg4im8KjUyEwOgaLJjGs-8" target="yg4im8KjUyEwOgaLJjGs-10">
