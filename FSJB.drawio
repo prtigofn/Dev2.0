@@ -1159,7 +1159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SBqTeY6dg39gXx3RGl3p" name="PR-FN-00068 - Venta de ganado">
-    <mxGraphModel dx="2358" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1284,6 +1284,18 @@
         <mxCell id="yg4im8KjUyEwOgaLJjGs-59" value="PR-FN-00013: Pesa de ganado" style="shape=offPageConnector;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;html=1;" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
           <mxGeometry x="220" y="1061" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="310" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-3" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="300" y="569" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="218" y="752" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-1">
+          <mxGeometry x="20" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="oYHx6eltpZ1rt-yPD6hr-23" value="Vaqueros" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="260" height="1480" as="geometry" />
         </mxCell>
@@ -1322,11 +1334,26 @@
         <mxCell id="Hu2JmOLDgVcNp8T9cVlX-1" value="3. Proveer disponibilidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-23">
           <mxGeometry x="60" y="241" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="oYHx6eltpZ1rt-yPD6hr-23">
+          <mxGeometry x="180" y="480" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="niJyDI7PR8dC_mDymDL2-2" value="Cliente" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="660" y="40" width="270" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="yg4im8KjUyEwOgaLJjGs-47" value="17. Confirmar Venta" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="niJyDI7PR8dC_mDymDL2-2">
           <mxGeometry x="60" y="971" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/picons-social/57/23-whatsapp-2-128.png" vertex="1" parent="niJyDI7PR8dC_mDymDL2-2">
+          <mxGeometry x="180" y="1030" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tE58U7ec_UxGoHqC5FoN-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="niJyDI7PR8dC_mDymDL2-2">
+          <mxGeometry x="170" y="950" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/picons-social/57/23-whatsapp-2-128.png" vertex="1" parent="niJyDI7PR8dC_mDymDL2-2">
+          <mxGeometry x="180" y="941" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QK_nla5wdIYbB1vi2YvI-9" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="niJyDI7PR8dC_mDymDL2-2">
+          <mxGeometry x="170" y="1040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="niJyDI7PR8dC_mDymDL2-9" value="Secretaria" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="930" y="40" width="230" height="1480" as="geometry" />
