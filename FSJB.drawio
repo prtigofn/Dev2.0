@@ -1570,7 +1570,7 @@
           <mxGeometry x="50" y="1152" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xmNY-phUr9XSypZh7GR-56" value="Secretaria" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="0xmNY-phUr9XSypZh7GR-1">
-          <mxGeometry x="660" y="40" width="270" height="1480" as="geometry" />
+          <mxGeometry x="660" y="39" width="270" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="0xmNY-phUr9XSypZh7GR-55" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.phone;fillColor=#000000;strokeColor=none" vertex="1" parent="0xmNY-phUr9XSypZh7GR-56">
           <mxGeometry x="130" y="70" width="30" height="30" as="geometry" />
