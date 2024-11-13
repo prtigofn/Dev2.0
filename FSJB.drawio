@@ -1415,7 +1415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PR-FN-00078 - Cobro de venta de ganado" id="79iJ_SRsYoO7lVhCwUdU">
-    <mxGraphModel dx="1207" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0xmNY-phUr9XSypZh7GR-0" />
         <mxCell id="0xmNY-phUr9XSypZh7GR-1" parent="0xmNY-phUr9XSypZh7GR-0" />
@@ -1579,7 +1579,7 @@
           <mxGeometry x="80" y="70" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="04nIWwpd46yh7G1FXLbM-46" value="PR-FN-000XX -&amp;nbsp;&lt;div&gt;Conciliación&lt;/div&gt;" style="shape=offPageConnector;fontSize=16;verticalAlign=middle;horizontal=1;labelPosition=right;verticalLabelPosition=middle;align=left;html=1;" vertex="1" parent="0xmNY-phUr9XSypZh7GR-56">
-          <mxGeometry x="70" y="971" width="40" height="40" as="geometry" />
+          <mxGeometry x="70" y="970" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="04nIWwpd46yh7G1FXLbM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0xmNY-phUr9XSypZh7GR-56" source="04nIWwpd46yh7G1FXLbM-60" target="04nIWwpd46yh7G1FXLbM-46">
           <mxGeometry relative="1" as="geometry" />
